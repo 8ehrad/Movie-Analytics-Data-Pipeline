@@ -1,0 +1,507 @@
+2023-05-03 01:00:12,480 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:00:12,496 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:00:15,624 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:00:15,628 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 455.06 GB, bytes free = 10.57 GB, capacity = 465.63 GB
+2023-05-03 01:00:32,501 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:00:32,505 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:00:52,508 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:00:52,511 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:01:12,513 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:01:12,515 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:01:15,812 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 46 Records and 0 Swap Files in 391 milliseconds (Stop-the-world time = 152 milliseconds, Clear Edit Logs time = 216 millis), max Transaction ID 310
+2023-05-03 01:01:15,876 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:01:15,878 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.06 GB, bytes free = 11.57 GB, capacity = 465.63 GB
+2023-05-03 01:01:32,517 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:01:32,518 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:01:52,521 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:01:52,524 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:02:12,527 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:02:12,528 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:02:16,080 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:02:16,083 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.06 GB, bytes free = 11.57 GB, capacity = 465.63 GB
+2023-05-03 01:02:32,531 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:02:32,534 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:02:52,538 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:02:52,540 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:03:12,546 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:03:12,548 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:03:16,344 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 46 Records and 0 Swap Files in 530 milliseconds (Stop-the-world time = 162 milliseconds, Clear Edit Logs time = 346 millis), max Transaction ID 310
+2023-05-03 01:03:16,412 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:03:16,415 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.06 GB, bytes free = 11.57 GB, capacity = 465.63 GB
+2023-05-03 01:03:32,551 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:03:32,553 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:03:52,554 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:03:52,556 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:04:12,557 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:04:12,559 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:04:16,640 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:04:16,643 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.06 GB, bytes free = 11.56 GB, capacity = 465.63 GB
+2023-05-03 01:04:32,561 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:04:32,563 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:04:52,564 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:04:52,567 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:05:12,570 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:05:12,572 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:05:16,896 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 46 Records and 0 Swap Files in 552 milliseconds (Stop-the-world time = 223 milliseconds, Clear Edit Logs time = 285 millis), max Transaction ID 310
+2023-05-03 01:05:16,992 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:05:16,995 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.07 GB, bytes free = 11.56 GB, capacity = 465.63 GB
+2023-05-03 01:05:32,573 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:05:32,575 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:05:52,581 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:05:52,583 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:06:12,588 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:06:12,591 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:06:17,236 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:06:17,239 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.07 GB, bytes free = 11.56 GB, capacity = 465.63 GB
+2023-05-03 01:06:32,597 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:06:32,599 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:06:52,603 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:06:52,605 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:07:12,608 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:07:12,610 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:07:17,317 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 46 Records and 0 Swap Files in 419 milliseconds (Stop-the-world time = 146 milliseconds, Clear Edit Logs time = 245 millis), max Transaction ID 310
+2023-05-03 01:07:17,444 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:07:17,455 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.07 GB, bytes free = 11.55 GB, capacity = 465.63 GB
+2023-05-03 01:07:32,612 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:07:32,615 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:07:52,616 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:07:52,618 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:08:12,619 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:08:12,622 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:08:17,633 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:08:17,635 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.08 GB, bytes free = 11.55 GB, capacity = 465.63 GB
+2023-05-03 01:08:32,624 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:08:32,626 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:08:52,627 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:08:52,630 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:09:12,632 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:09:12,633 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:09:17,733 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 46 Records and 0 Swap Files in 414 milliseconds (Stop-the-world time = 175 milliseconds, Clear Edit Logs time = 214 millis), max Transaction ID 310
+2023-05-03 01:09:17,845 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:09:17,848 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 455.07 GB, bytes free = 10.56 GB, capacity = 465.63 GB
+2023-05-03 01:09:32,635 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:09:32,638 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:09:52,642 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:09:52,645 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:10:12,650 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:10:12,652 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:10:18,040 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:10:18,045 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 455.07 GB, bytes free = 10.56 GB, capacity = 465.63 GB
+2023-05-03 01:10:32,655 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:10:32,657 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:10:52,660 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:10:52,662 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:11:12,665 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:11:12,667 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:11:18,259 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 46 Records and 0 Swap Files in 524 milliseconds (Stop-the-world time = 205 milliseconds, Clear Edit Logs time = 282 millis), max Transaction ID 310
+2023-05-03 01:11:18,353 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:11:18,357 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 455.07 GB, bytes free = 10.56 GB, capacity = 465.63 GB
+2023-05-03 01:11:32,670 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:11:32,673 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:11:52,683 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:11:52,686 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:12:12,680 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:12:12,682 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:12:18,547 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:12:18,550 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 455.07 GB, bytes free = 10.56 GB, capacity = 465.63 GB
+2023-05-03 01:12:32,684 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:12:32,686 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:12:52,688 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:12:52,710 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:13:12,712 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:13:12,714 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:13:18,643 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 46 Records and 0 Swap Files in 382 milliseconds (Stop-the-world time = 155 milliseconds, Clear Edit Logs time = 201 millis), max Transaction ID 310
+2023-05-03 01:13:18,744 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:13:18,746 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 455.07 GB, bytes free = 10.55 GB, capacity = 465.63 GB
+2023-05-03 01:13:32,716 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:13:32,718 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 0 milliseconds
+2023-05-03 01:13:39,092 INFO [NiFi Web Server-224] o.a.n.c.queue.AbstractFlowFileQueue Initiating drop of FlowFiles from FlowFileQueue[id=ddc70309-0187-1000-b360-e0d7437ceddb] on behalf of scc413 (request identifier=df2c0e14-0187-1000-cd3f-c2e6ee750e47)
+2023-05-03 01:13:39,126 INFO [Drop FlowFiles for Connection ddc70309-0187-1000-b360-e0d7437ceddb] o.a.n.p.store.WriteAheadStorePartition Successfully rolled over Event Writer for Provenance Event Store Partition[directory=./provenance_repository] due to MAX_TIME_REACHED. Event File was 33.01 KB and contained 20 events.
+2023-05-03 01:13:39,147 INFO [Drop FlowFiles for Connection ddc70309-0187-1000-b360-e0d7437ceddb] o.a.n.c.queue.SwappablePriorityQueue Successfully dropped 1 FlowFiles (69 bytes) from Connection with ID ddc70309-0187-1000-b360-e0d7437ceddb on behalf of scc413
+2023-05-03 01:13:52,722 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:13:52,759 INFO [pool-7-thread-1] o.a.n.wali.SequentialAccessWriteAheadLog Checkpointed Write-Ahead Log with 4 Records and 0 Swap Files in 34 milliseconds (Stop-the-world time = 19 milliseconds), max Transaction ID 43772
+2023-05-03 01:13:52,761 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 4 records in 36 milliseconds
+2023-05-03 01:14:12,764 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:14:12,765 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 4 records in 0 milliseconds
+2023-05-03 01:14:18,910 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:14:18,912 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.08 GB, bytes free = 11.55 GB, capacity = 465.63 GB
+2023-05-03 01:14:32,767 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:14:32,769 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 4 records in 0 milliseconds
+2023-05-03 01:14:52,774 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:14:52,776 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 4 records in 0 milliseconds
+2023-05-03 01:15:12,780 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:15:12,784 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 4 records in 0 milliseconds
+2023-05-03 01:15:19,372 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:15:19,379 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.06 GB, bytes free = 11.57 GB, capacity = 465.63 GB
+2023-05-03 01:15:19,437 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 46 Records and 0 Swap Files in 792 milliseconds (Stop-the-world time = 451 milliseconds, Clear Edit Logs time = 304 millis), max Transaction ID 310
+2023-05-03 01:15:32,788 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:15:32,790 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 4 records in 0 milliseconds
+2023-05-03 01:15:52,791 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:15:52,793 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 4 records in 0 milliseconds
+2023-05-03 01:16:12,794 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:16:12,797 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 4 records in 0 milliseconds
+2023-05-03 01:16:19,824 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:16:19,830 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 455.06 GB, bytes free = 10.57 GB, capacity = 465.63 GB
+2023-05-03 01:16:32,798 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:16:32,800 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 4 records in 0 milliseconds
+2023-05-03 01:16:33,841 INFO [NiFi Web Server-218] o.a.n.c.s.StandardProcessScheduler Starting ExecuteStreamCommand[id=da13a7e2-0187-1000-19ec-edb742111f7a]
+2023-05-03 01:16:33,844 INFO [NiFi Web Server-218] o.a.n.controller.StandardProcessorNode Starting ExecuteStreamCommand[id=da13a7e2-0187-1000-19ec-edb742111f7a]
+2023-05-03 01:16:33,854 INFO [Timer-Driven Process Thread-2] o.a.n.c.s.TimerDrivenSchedulingAgent Scheduled ExecuteStreamCommand[id=da13a7e2-0187-1000-19ec-edb742111f7a] to run with 1 threads
+2023-05-03 01:16:33,876 INFO [NiFi Web Server-211] o.a.n.c.s.StandardProcessScheduler Starting SplitText[id=d9e179f3-0187-1000-9cee-285cbbac7df8]
+2023-05-03 01:16:33,879 INFO [NiFi Web Server-211] o.a.n.controller.StandardProcessorNode Starting SplitText[id=d9e179f3-0187-1000-9cee-285cbbac7df8]
+2023-05-03 01:16:33,888 INFO [Timer-Driven Process Thread-6] o.a.n.c.s.TimerDrivenSchedulingAgent Scheduled SplitText[id=d9e179f3-0187-1000-9cee-285cbbac7df8] to run with 1 threads
+2023-05-03 01:16:33,908 INFO [NiFi Web Server-227] o.a.n.c.s.StandardProcessScheduler Starting RouteOnAttribute[id=ddbd1db8-0187-1000-2abc-86903f4b092b]
+2023-05-03 01:16:33,913 INFO [NiFi Web Server-227] o.a.n.controller.StandardProcessorNode Starting RouteOnAttribute[id=ddbd1db8-0187-1000-2abc-86903f4b092b]
+2023-05-03 01:16:33,916 INFO [Timer-Driven Process Thread-1] o.a.n.c.s.TimerDrivenSchedulingAgent Scheduled RouteOnAttribute[id=ddbd1db8-0187-1000-2abc-86903f4b092b] to run with 1 threads
+2023-05-03 01:16:33,924 INFO [NiFi Web Server-222] o.a.n.c.s.StandardProcessScheduler Starting EvaluateJsonPath[id=ddb9feae-0187-1000-9aab-0e415d3f591d]
+2023-05-03 01:16:33,926 INFO [NiFi Web Server-222] o.a.n.controller.StandardProcessorNode Starting EvaluateJsonPath[id=ddb9feae-0187-1000-9aab-0e415d3f591d]
+2023-05-03 01:16:33,935 INFO [Timer-Driven Process Thread-4] o.a.n.c.s.TimerDrivenSchedulingAgent Scheduled EvaluateJsonPath[id=ddb9feae-0187-1000-9aab-0e415d3f591d] to run with 1 threads
+2023-05-03 01:16:33,939 INFO [NiFi Web Server-195] o.a.n.c.s.StandardProcessScheduler Starting PutDatabaseRecord[id=de8bcc07-0187-1000-41d1-f327cabf1ed4]
+2023-05-03 01:16:33,941 INFO [NiFi Web Server-195] o.a.n.controller.StandardProcessorNode Starting PutDatabaseRecord[id=de8bcc07-0187-1000-41d1-f327cabf1ed4]
+2023-05-03 01:16:33,945 INFO [Timer-Driven Process Thread-10] o.a.n.c.s.TimerDrivenSchedulingAgent Scheduled PutDatabaseRecord[id=de8bcc07-0187-1000-41d1-f327cabf1ed4] to run with 1 threads
+2023-05-03 01:16:33,955 INFO [NiFi Web Server-221] o.a.n.c.s.StandardProcessScheduler Starting GetFile[id=d9e0c297-0187-1000-d7c5-595cc7aca235]
+2023-05-03 01:16:33,957 INFO [NiFi Web Server-221] o.a.n.controller.StandardProcessorNode Starting GetFile[id=d9e0c297-0187-1000-d7c5-595cc7aca235]
+2023-05-03 01:16:33,961 INFO [Timer-Driven Process Thread-7] o.a.n.c.s.TimerDrivenSchedulingAgent Scheduled GetFile[id=d9e0c297-0187-1000-d7c5-595cc7aca235] to run with 1 threads
+2023-05-03 01:16:33,966 INFO [NiFi Web Server-209] o.a.n.c.s.StandardProcessScheduler Starting UpdateAttribute[id=ddbf6fb4-0187-1000-f702-97b744300061]
+2023-05-03 01:16:33,971 INFO [NiFi Web Server-209] o.a.n.controller.StandardProcessorNode Starting UpdateAttribute[id=ddbf6fb4-0187-1000-f702-97b744300061]
+2023-05-03 01:16:33,982 INFO [Timer-Driven Process Thread-8] o.a.n.c.s.TimerDrivenSchedulingAgent Scheduled UpdateAttribute[id=ddbf6fb4-0187-1000-f702-97b744300061] to run with 1 threads
+2023-05-03 01:16:38,026 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:16:52,802 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:16:52,841 INFO [pool-7-thread-1] o.a.n.wali.SequentialAccessWriteAheadLog Checkpointed Write-Ahead Log with 9 Records and 0 Swap Files in 37 milliseconds (Stop-the-world time = 14 milliseconds), max Transaction ID 43778
+2023-05-03 01:16:52,842 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 9 records in 38 milliseconds
+2023-05-03 01:17:02,995 INFO [NiFi Web Server-197] o.a.n.c.s.StandardProcessScheduler Stopping GetFile[id=d9e0c297-0187-1000-d7c5-595cc7aca235]
+2023-05-03 01:17:02,997 INFO [NiFi Web Server-197] o.a.n.controller.StandardProcessorNode Stopping processor: GetFile[id=d9e0c297-0187-1000-d7c5-595cc7aca235]
+2023-05-03 01:17:03,001 INFO [Timer-Driven Process Thread-1] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling GetFile[id=d9e0c297-0187-1000-d7c5-595cc7aca235] to run
+2023-05-03 01:17:03,002 INFO [Timer-Driven Process Thread-1] o.a.n.controller.StandardProcessorNode GetFile[id=d9e0c297-0187-1000-d7c5-595cc7aca235] has completely stopped. Completing any associated Futures.
+2023-05-03 01:17:03,641 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:17:12,844 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:17:12,846 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 9 records in 0 milliseconds
+2023-05-03 01:17:19,934 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 46 Records and 0 Swap Files in 495 milliseconds (Stop-the-world time = 229 milliseconds, Clear Edit Logs time = 245 millis), max Transaction ID 310
+2023-05-03 01:17:21,953 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:17:21,956 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.05 GB, bytes free = 11.57 GB, capacity = 465.63 GB
+2023-05-03 01:17:32,188 INFO [NiFi Web Server-211] o.a.n.c.queue.AbstractFlowFileQueue Initiating drop of FlowFiles from FlowFileQueue[id=d7819b91-0187-1000-7928-600a6a2913a2] on behalf of scc413 (request identifier=df2f9c9c-0187-1000-879a-56ddce107090)
+2023-05-03 01:17:32,200 INFO [Drop FlowFiles for Connection d7819b91-0187-1000-7928-600a6a2913a2] o.a.n.c.queue.SwappablePriorityQueue Successfully dropped 1 FlowFiles (6042392 bytes) from Connection with ID d7819b91-0187-1000-7928-600a6a2913a2 on behalf of scc413
+2023-05-03 01:17:32,847 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:17:32,882 INFO [pool-7-thread-1] o.a.n.wali.SequentialAccessWriteAheadLog Checkpointed Write-Ahead Log with 8 Records and 0 Swap Files in 32 milliseconds (Stop-the-world time = 12 milliseconds), max Transaction ID 43779
+2023-05-03 01:17:32,884 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 8 records in 35 milliseconds
+2023-05-03 01:17:37,275 INFO [NiFi Web Server-222] o.a.n.c.queue.AbstractFlowFileQueue Initiating drop of FlowFiles from FlowFileQueue[id=d78177d3-0187-1000-fe2e-61178e12391e] on behalf of scc413 (request identifier=df2fb07b-0187-1000-ef99-90aeeca31b5b)
+2023-05-03 01:17:37,307 INFO [Drop FlowFiles for Connection d78177d3-0187-1000-fe2e-61178e12391e] o.a.n.c.queue.SwappablePriorityQueue Successfully dropped 1 FlowFiles (7446970 bytes) from Connection with ID d78177d3-0187-1000-fe2e-61178e12391e on behalf of scc413
+2023-05-03 01:17:42,119 INFO [NiFi Web Server-224] o.a.nifi.groups.StandardProcessGroup Connection[ID=d7819b91-0187-1000-7928-600a6a2913a2, Source ID=d7748187-0187-1000-f562-673a93f97639, Dest ID=d78160d7-0187-1000-3614-78fdfd368532] removed from flow
+2023-05-03 01:17:42,711 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:17:42,952 INFO [NiFi Web Server-224] o.a.nifi.groups.StandardProcessGroup Connection[ID=d78177d3-0187-1000-fe2e-61178e12391e, Source ID=d7748187-0187-1000-f562-673a93f97639, Dest ID=d781565e-0187-1000-c19c-29244c929202] removed from flow
+2023-05-03 01:17:43,758 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:17:43,976 INFO [NiFi Web Server-224] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling StandardFunnel[id=d781565e-0187-1000-c19c-29244c929202] to run
+2023-05-03 01:17:43,981 INFO [NiFi Web Server-224] o.a.nifi.groups.StandardProcessGroup StandardFunnel[id=d781565e-0187-1000-c19c-29244c929202] removed from flow
+2023-05-03 01:17:44,653 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:17:44,928 INFO [NiFi Web Server-222] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling StandardFunnel[id=d78160d7-0187-1000-3614-78fdfd368532] to run
+2023-05-03 01:17:44,941 INFO [NiFi Web Server-222] o.a.nifi.groups.StandardProcessGroup StandardFunnel[id=d78160d7-0187-1000-3614-78fdfd368532] removed from flow
+2023-05-03 01:17:45,690 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:17:46,350 INFO [NiFi Web Server-224] o.a.nifi.groups.StandardProcessGroup Connection[ID=d780dd3b-0187-1000-18ac-90af5a6e697d, Source ID=621c33ca-4a90-1cb8-99f4-82e176e36d93, Dest ID=d7748187-0187-1000-f562-673a93f97639] removed from flow
+2023-05-03 01:17:47,073 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:17:52,886 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:17:52,926 INFO [pool-7-thread-1] o.a.n.wali.SequentialAccessWriteAheadLog Checkpointed Write-Ahead Log with 7 Records and 0 Swap Files in 34 milliseconds (Stop-the-world time = 14 milliseconds), max Transaction ID 43780
+2023-05-03 01:17:52,927 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 7 records in 35 milliseconds
+2023-05-03 01:17:54,733 INFO [FileSystemRepository Workers Thread-1] o.a.n.c.repository.FileSystemRepository Successfully archived 1 Resource Claims for Container default in 8 millis
+2023-05-03 01:17:55,989 INFO [NiFi Web Server-219] o.a.n.c.queue.AbstractFlowFileQueue Initiating drop of FlowFiles from FlowFileQueue[id=d781c4ae-0187-1000-a661-4827640906fb] on behalf of scc413 (request identifier=df2ff995-0187-1000-2cfb-4cf1f7c53bec)
+2023-05-03 01:17:56,002 INFO [Drop FlowFiles for Connection d781c4ae-0187-1000-a661-4827640906fb] o.a.n.c.queue.SwappablePriorityQueue Successfully dropped 1 FlowFiles (13228775 bytes) from Connection with ID d781c4ae-0187-1000-a661-4827640906fb on behalf of scc413
+2023-05-03 01:18:02,216 INFO [NiFi Web Server-209] o.a.n.c.queue.AbstractFlowFileQueue Initiating drop of FlowFiles from FlowFileQueue[id=cdc6e46f-0187-1000-cd6a-a8d1bfe2ba30] on behalf of scc413 (request identifier=df3011e8-0187-1000-c3fe-93460947da32)
+2023-05-03 01:18:02,238 INFO [Drop FlowFiles for Connection cdc6e46f-0187-1000-cd6a-a8d1bfe2ba30] o.a.n.c.queue.SwappablePriorityQueue Successfully dropped 1 FlowFiles (66212309 bytes) from Connection with ID cdc6e46f-0187-1000-cd6a-a8d1bfe2ba30 on behalf of scc413
+2023-05-03 01:18:04,300 INFO [NiFi Web Server-219] o.a.nifi.groups.StandardProcessGroup Connection[ID=cdc6e46f-0187-1000-cd6a-a8d1bfe2ba30, Source ID=621c33ca-4a90-1cb8-99f4-82e176e36d93, Dest ID=cdc6cc33-0187-1000-c90a-33cb4534883e] removed from flow
+2023-05-03 01:18:05,021 INFO [NiFi Web Server-219] o.a.nifi.groups.StandardProcessGroup Connection[ID=d781c4ae-0187-1000-a661-4827640906fb, Source ID=d7748187-0187-1000-f562-673a93f97639, Dest ID=cdc6cc33-0187-1000-c90a-33cb4534883e] removed from flow
+2023-05-03 01:18:05,182 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = true
+2023-05-03 01:18:06,060 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:18:08,274 INFO [NiFi Web Server-209] o.a.nifi.groups.StandardProcessGroup Connection[ID=d73b6dec-0187-1000-60d9-5e2e4574f077, Source ID=d7365f24-0187-1000-d06d-c4219723f43f, Dest ID=cdc6cc33-0187-1000-c90a-33cb4534883e] removed from flow
+2023-05-03 01:18:09,075 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:18:09,412 INFO [NiFi Web Server-209] o.a.nifi.groups.StandardProcessGroup Connection[ID=d73b3053-0187-1000-82a0-bee2e7910225, Source ID=d7365f24-0187-1000-d06d-c4219723f43f, Dest ID=c7e2bcc2-0187-1000-5371-4e54ae11944a] removed from flow
+2023-05-03 01:18:09,941 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:18:10,952 INFO [NiFi Web Server-209] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling StandardFunnel[id=cdc6cc33-0187-1000-c90a-33cb4534883e] to run
+2023-05-03 01:18:10,954 INFO [NiFi Web Server-209] o.a.nifi.groups.StandardProcessGroup StandardFunnel[id=cdc6cc33-0187-1000-c90a-33cb4534883e] removed from flow
+2023-05-03 01:18:11,825 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:18:12,385 INFO [NiFi Web Server-219] o.a.nifi.groups.StandardProcessGroup QueryRecord[id=d7748187-0187-1000-f562-673a93f97639] removed from flow
+2023-05-03 01:18:12,930 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:18:12,977 INFO [pool-7-thread-1] o.a.n.wali.SequentialAccessWriteAheadLog Checkpointed Write-Ahead Log with 5 Records and 0 Swap Files in 46 milliseconds (Stop-the-world time = 19 milliseconds), max Transaction ID 43782
+2023-05-03 01:18:12,979 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 5 records in 47 milliseconds
+2023-05-03 01:18:13,308 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:18:13,753 INFO [FileSystemRepository Workers Thread-3] o.a.n.c.repository.FileSystemRepository Successfully archived 2 Resource Claims for Container default in 12 millis
+2023-05-03 01:18:17,147 INFO [NiFi Web Server-219] o.a.nifi.groups.StandardProcessGroup Connection[ID=cdc63b3b-0187-1000-fc54-24b3aaa2159c, Source ID=c52c4a4c-0187-1000-6d01-a24fda4226d9, Dest ID=621c33ca-4a90-1cb8-99f4-82e176e36d93] removed from flow
+2023-05-03 01:18:17,788 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:18:18,061 INFO [NiFi Web Server-224] o.a.nifi.groups.StandardProcessGroup GetFile[id=c52c4a4c-0187-1000-6d01-a24fda4226d9] removed from flow
+2023-05-03 01:18:18,733 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:18:19,053 INFO [NiFi Web Server-218] o.a.nifi.groups.StandardProcessGroup ExecuteStreamCommand[id=621c33ca-4a90-1cb8-99f4-82e176e36d93] removed from flow
+2023-05-03 01:18:19,638 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:18:19,946 INFO [NiFi Web Server-224] o.a.nifi.groups.StandardProcessGroup SplitText[id=621c33c2-4a90-1cb8-14c8-a1a8a7499f98] removed from flow
+2023-05-03 01:18:20,711 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:18:21,754 INFO [NiFi Web Server-224] o.a.nifi.groups.StandardProcessGroup ConvertRecord[id=c7db7633-0187-1000-1123-47ee17b4ad51] removed from flow
+2023-05-03 01:18:22,321 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 3 files (88.63 MB) from archive
+2023-05-03 01:18:22,323 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.98 GB, bytes free = 10.65 GB, capacity = 465.63 GB
+2023-05-03 01:18:22,620 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:18:22,974 INFO [NiFi Web Server-219] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling StandardFunnel[id=c7e2bcc2-0187-1000-5371-4e54ae11944a] to run
+2023-05-03 01:18:22,977 INFO [NiFi Web Server-219] o.a.nifi.groups.StandardProcessGroup StandardFunnel[id=c7e2bcc2-0187-1000-5371-4e54ae11944a] removed from flow
+2023-05-03 01:18:23,481 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:18:27,687 INFO [NiFi Web Server-224] o.a.nifi.groups.StandardProcessGroup Connection[ID=d73b1b64-0187-1000-b89a-66776c1dab17, Source ID=d7365f24-0187-1000-d06d-c4219723f43f, Dest ID=c52cc8f1-0187-1000-4b08-0643d0bfaa3b] removed from flow
+2023-05-03 01:18:27,689 INFO [NiFi Web Server-224] o.a.nifi.groups.StandardProcessGroup RouteOnAttribute[id=d7365f24-0187-1000-d06d-c4219723f43f] removed from flow
+2023-05-03 01:18:28,344 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:18:28,914 INFO [NiFi Web Server-219] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling StandardFunnel[id=c52cc8f1-0187-1000-4b08-0643d0bfaa3b] to run
+2023-05-03 01:18:28,916 INFO [NiFi Web Server-219] o.a.nifi.groups.StandardProcessGroup StandardFunnel[id=c52cc8f1-0187-1000-4b08-0643d0bfaa3b] removed from flow
+2023-05-03 01:18:29,783 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:18:32,982 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:18:33,028 INFO [pool-7-thread-1] o.a.n.wali.SequentialAccessWriteAheadLog Checkpointed Write-Ahead Log with 4 Records and 0 Swap Files in 43 milliseconds (Stop-the-world time = 20 milliseconds), max Transaction ID 43787
+2023-05-03 01:18:33,033 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 4 records in 48 milliseconds
+2023-05-03 01:18:49,646 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:18:53,057 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:18:53,059 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 4 records in 0 milliseconds
+2023-05-03 01:18:58,533 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:19:01,529 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:19:12,438 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:19:13,062 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:19:13,064 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 4 records in 0 milliseconds
+2023-05-03 01:19:20,337 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 52 Records and 0 Swap Files in 401 milliseconds (Stop-the-world time = 190 milliseconds, Clear Edit Logs time = 183 millis), max Transaction ID 328
+2023-05-03 01:19:22,591 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:19:22,598 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.98 GB, bytes free = 10.65 GB, capacity = 465.63 GB
+2023-05-03 01:19:23,310 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:19:29,209 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:19:31,094 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:19:33,067 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:19:33,070 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 4 records in 0 milliseconds
+2023-05-03 01:19:38,031 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:19:42,884 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:19:45,257 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:19:47,614 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:19:50,585 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:19:51,520 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:19:52,873 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:19:53,074 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:19:53,116 INFO [pool-7-thread-1] o.a.n.wali.SequentialAccessWriteAheadLog Checkpointed Write-Ahead Log with 3 Records and 0 Swap Files in 38 milliseconds (Stop-the-world time = 19 milliseconds), max Transaction ID 43792
+2023-05-03 01:19:53,118 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 3 records in 41 milliseconds
+2023-05-03 01:19:56,278 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:20:01,148 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:20:07,525 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:20:09,497 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:20:13,120 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:20:13,122 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 3 records in 0 milliseconds
+2023-05-03 01:20:14,950 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:20:17,383 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:20:18,293 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:20:19,212 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:20:22,875 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:20:22,878 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 453.98 GB, bytes free = 11.65 GB, capacity = 465.63 GB
+2023-05-03 01:20:23,245 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:20:25,632 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:20:30,624 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:20:33,126 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:20:33,157 INFO [pool-7-thread-1] o.a.n.wali.SequentialAccessWriteAheadLog Checkpointed Write-Ahead Log with 2 Records and 0 Swap Files in 29 milliseconds (Stop-the-world time = 12 milliseconds), max Transaction ID 43797
+2023-05-03 01:20:33,160 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 2 records in 32 milliseconds
+2023-05-03 01:20:34,493 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:20:43,875 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:20:53,163 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:20:53,165 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 2 records in 0 milliseconds
+2023-05-03 01:20:56,752 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:20:58,144 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:21:00,007 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:21:13,167 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:21:13,169 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 2 records in 0 milliseconds
+2023-05-03 01:21:20,818 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 52 Records and 0 Swap Files in 480 milliseconds (Stop-the-world time = 226 milliseconds, Clear Edit Logs time = 224 millis), max Transaction ID 328
+2023-05-03 01:21:23,229 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:21:23,233 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 453.99 GB, bytes free = 11.63 GB, capacity = 465.63 GB
+2023-05-03 01:21:26,443 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:21:33,172 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:21:33,211 INFO [pool-7-thread-1] o.a.n.wali.SequentialAccessWriteAheadLog Checkpointed Write-Ahead Log with 1 Records and 0 Swap Files in 35 milliseconds (Stop-the-world time = 17 milliseconds), max Transaction ID 43802
+2023-05-03 01:21:33,212 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 37 milliseconds
+2023-05-03 01:21:53,215 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:21:53,217 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:22:13,220 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:22:13,222 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:22:23,400 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:22:23,403 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.98 GB, bytes free = 10.64 GB, capacity = 465.63 GB
+2023-05-03 01:22:33,227 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:22:33,230 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:22:53,235 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:22:53,237 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:23:13,240 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:23:13,243 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:23:21,179 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 52 Records and 0 Swap Files in 359 milliseconds (Stop-the-world time = 160 milliseconds, Clear Edit Logs time = 166 millis), max Transaction ID 330
+2023-05-03 01:23:23,565 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:23:23,569 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.98 GB, bytes free = 10.65 GB, capacity = 465.63 GB
+2023-05-03 01:23:33,249 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:23:33,252 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:23:53,254 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:23:53,255 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:24:13,257 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:24:13,260 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:24:23,752 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:24:23,754 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.98 GB, bytes free = 10.64 GB, capacity = 465.63 GB
+2023-05-03 01:24:33,264 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:24:33,266 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:24:53,294 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:24:53,298 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:25:13,312 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:25:13,314 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:25:21,585 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 52 Records and 0 Swap Files in 367 milliseconds (Stop-the-world time = 158 milliseconds, Clear Edit Logs time = 184 millis), max Transaction ID 330
+2023-05-03 01:25:23,991 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:25:23,994 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.99 GB, bytes free = 10.64 GB, capacity = 465.63 GB
+2023-05-03 01:25:33,315 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:25:33,317 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:25:53,322 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:25:53,324 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:26:13,327 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:26:13,329 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:26:24,206 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:26:24,210 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.99 GB, bytes free = 10.64 GB, capacity = 465.63 GB
+2023-05-03 01:26:33,332 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:26:33,334 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:26:53,337 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:26:53,340 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:27:13,343 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:27:13,345 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:27:21,966 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 52 Records and 0 Swap Files in 377 milliseconds (Stop-the-world time = 172 milliseconds, Clear Edit Logs time = 179 millis), max Transaction ID 330
+2023-05-03 01:27:24,418 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:27:24,421 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.98 GB, bytes free = 10.65 GB, capacity = 465.63 GB
+2023-05-03 01:27:33,348 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:27:33,350 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:27:53,352 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:27:53,354 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:28:13,356 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:28:13,369 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:28:24,607 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:28:24,610 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454 GB, bytes free = 11.63 GB, capacity = 465.63 GB
+2023-05-03 01:28:33,371 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:28:33,373 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:28:53,375 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:28:53,378 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:29:13,381 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:29:13,384 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:29:22,363 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 52 Records and 0 Swap Files in 395 milliseconds (Stop-the-world time = 157 milliseconds, Clear Edit Logs time = 207 millis), max Transaction ID 331
+2023-05-03 01:29:24,771 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:29:24,773 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454 GB, bytes free = 11.62 GB, capacity = 465.63 GB
+2023-05-03 01:29:33,386 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:29:33,387 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:29:53,391 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:29:53,393 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:30:13,397 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:30:13,400 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:30:24,937 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:30:24,940 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.01 GB, bytes free = 11.62 GB, capacity = 465.63 GB
+2023-05-03 01:30:33,404 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:30:33,406 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:30:53,413 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:30:53,414 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:31:13,417 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:31:13,420 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:31:22,724 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 52 Records and 0 Swap Files in 358 milliseconds (Stop-the-world time = 149 milliseconds, Clear Edit Logs time = 172 millis), max Transaction ID 331
+2023-05-03 01:31:25,109 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:31:25,112 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.01 GB, bytes free = 11.62 GB, capacity = 465.63 GB
+2023-05-03 01:31:33,423 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:31:33,445 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:31:53,447 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:31:53,449 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:31:58,955 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:32:01,849 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:32:05,749 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:32:10,138 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:32:12,008 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:32:13,461 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:32:13,463 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:32:14,372 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:32:15,745 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:32:25,279 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:32:25,281 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.01 GB, bytes free = 11.62 GB, capacity = 465.63 GB
+2023-05-03 01:32:33,469 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:32:33,470 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:32:40,085 INFO [NiFi Web Server-195] o.a.n.c.s.StandardProcessScheduler Stopping SplitText[id=d9e179f3-0187-1000-9cee-285cbbac7df8]
+2023-05-03 01:32:40,087 INFO [NiFi Web Server-195] o.a.n.controller.StandardProcessorNode Stopping processor: SplitText[id=d9e179f3-0187-1000-9cee-285cbbac7df8]
+2023-05-03 01:32:40,093 INFO [Timer-Driven Process Thread-10] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling SplitText[id=d9e179f3-0187-1000-9cee-285cbbac7df8] to run
+2023-05-03 01:32:40,098 INFO [Timer-Driven Process Thread-10] o.a.n.controller.StandardProcessorNode SplitText[id=d9e179f3-0187-1000-9cee-285cbbac7df8] has completely stopped. Completing any associated Futures.
+2023-05-03 01:32:40,118 INFO [NiFi Web Server-249] o.a.n.c.s.StandardProcessScheduler Stopping EvaluateJsonPath[id=ddb9feae-0187-1000-9aab-0e415d3f591d]
+2023-05-03 01:32:40,121 INFO [NiFi Web Server-249] o.a.n.controller.StandardProcessorNode Stopping processor: EvaluateJsonPath[id=ddb9feae-0187-1000-9aab-0e415d3f591d]
+2023-05-03 01:32:40,123 INFO [Timer-Driven Process Thread-6] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling EvaluateJsonPath[id=ddb9feae-0187-1000-9aab-0e415d3f591d] to run
+2023-05-03 01:32:40,125 INFO [Timer-Driven Process Thread-6] o.a.n.controller.StandardProcessorNode EvaluateJsonPath[id=ddb9feae-0187-1000-9aab-0e415d3f591d] has completely stopped. Completing any associated Futures.
+2023-05-03 01:32:40,129 INFO [NiFi Web Server-197] o.a.n.c.s.StandardProcessScheduler Stopping ExecuteStreamCommand[id=da13a7e2-0187-1000-19ec-edb742111f7a]
+2023-05-03 01:32:40,133 INFO [NiFi Web Server-197] o.a.n.controller.StandardProcessorNode Stopping processor: ExecuteStreamCommand[id=da13a7e2-0187-1000-19ec-edb742111f7a]
+2023-05-03 01:32:40,141 INFO [Timer-Driven Process Thread-6] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling ExecuteStreamCommand[id=da13a7e2-0187-1000-19ec-edb742111f7a] to run
+2023-05-03 01:32:40,170 INFO [Timer-Driven Process Thread-6] o.a.n.controller.StandardProcessorNode ExecuteStreamCommand[id=da13a7e2-0187-1000-19ec-edb742111f7a] has completely stopped. Completing any associated Futures.
+2023-05-03 01:32:40,661 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:32:45,877 INFO [NiFi Web Server-242] o.a.n.c.s.StandardProcessScheduler Stopping PutDatabaseRecord[id=de8bcc07-0187-1000-41d1-f327cabf1ed4]
+2023-05-03 01:32:45,881 INFO [NiFi Web Server-242] o.a.n.controller.StandardProcessorNode Stopping processor: PutDatabaseRecord[id=de8bcc07-0187-1000-41d1-f327cabf1ed4]
+2023-05-03 01:32:45,884 INFO [Timer-Driven Process Thread-1] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling PutDatabaseRecord[id=de8bcc07-0187-1000-41d1-f327cabf1ed4] to run
+2023-05-03 01:32:45,889 INFO [Timer-Driven Process Thread-1] o.a.n.controller.StandardProcessorNode PutDatabaseRecord[id=de8bcc07-0187-1000-41d1-f327cabf1ed4] has completely stopped. Completing any associated Futures.
+2023-05-03 01:32:45,890 INFO [NiFi Web Server-197] o.a.n.c.s.StandardProcessScheduler Stopping RouteOnAttribute[id=ddbd1db8-0187-1000-2abc-86903f4b092b]
+2023-05-03 01:32:45,897 INFO [NiFi Web Server-197] o.a.n.controller.StandardProcessorNode Stopping processor: RouteOnAttribute[id=ddbd1db8-0187-1000-2abc-86903f4b092b]
+2023-05-03 01:32:45,903 INFO [Timer-Driven Process Thread-7] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling RouteOnAttribute[id=ddbd1db8-0187-1000-2abc-86903f4b092b] to run
+2023-05-03 01:32:45,917 INFO [Timer-Driven Process Thread-7] o.a.n.controller.StandardProcessorNode RouteOnAttribute[id=ddbd1db8-0187-1000-2abc-86903f4b092b] has completely stopped. Completing any associated Futures.
+2023-05-03 01:32:45,920 INFO [NiFi Web Server-240] o.a.n.c.s.StandardProcessScheduler Stopping UpdateAttribute[id=ddbf6fb4-0187-1000-f702-97b744300061]
+2023-05-03 01:32:45,935 INFO [NiFi Web Server-240] o.a.n.controller.StandardProcessorNode Stopping processor: UpdateAttribute[id=ddbf6fb4-0187-1000-f702-97b744300061]
+2023-05-03 01:32:45,952 INFO [Timer-Driven Process Thread-6] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling UpdateAttribute[id=ddbf6fb4-0187-1000-f702-97b744300061] to run
+2023-05-03 01:32:45,965 INFO [Timer-Driven Process Thread-6] o.a.n.controller.StandardProcessorNode UpdateAttribute[id=ddbf6fb4-0187-1000-f702-97b744300061] has completely stopped. Completing any associated Futures.
+2023-05-03 01:32:46,521 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:32:53,474 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:32:53,476 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:33:08,537 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:33:09,997 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:33:13,479 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:33:13,481 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:33:13,895 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:33:17,793 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:33:22,744 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:33:23,054 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 52 Records and 0 Swap Files in 328 milliseconds (Stop-the-world time = 134 milliseconds, Clear Edit Logs time = 165 millis), max Transaction ID 331
+2023-05-03 01:33:25,475 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:33:25,478 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.01 GB, bytes free = 11.62 GB, capacity = 465.63 GB
+2023-05-03 01:33:26,686 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:33:31,047 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:33:33,486 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:33:33,489 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:33:37,965 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:33:40,320 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:33:42,187 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:33:53,493 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:33:53,497 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:33:57,074 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:34:00,926 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:34:05,465 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:34:13,506 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:34:13,509 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:34:27,242 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:34:27,245 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 454.99 GB, bytes free = 10.64 GB, capacity = 465.63 GB
+2023-05-03 01:34:33,513 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:34:33,515 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:34:53,520 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:34:53,522 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:35:13,526 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:35:13,528 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:35:23,441 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 52 Records and 0 Swap Files in 385 milliseconds (Stop-the-world time = 160 milliseconds, Clear Edit Logs time = 198 millis), max Transaction ID 331
+2023-05-03 01:35:27,412 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:35:27,414 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 455 GB, bytes free = 10.63 GB, capacity = 465.63 GB
+2023-05-03 01:35:33,492 INFO [NiFi Web Server-246] o.a.nifi.groups.StandardProcessGroup StandardControllerServiceNode[service=AvroReader[id=dec6d960-0187-1000-01ab-ac5ff17f36a3], name=AvroReader, active=false] removed from StandardProcessGroup[identifier=c4fdbbda-0187-1000-be20-44a72cb111a3,name=NiFi Flow]
+2023-05-03 01:35:33,531 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:35:33,533 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:35:33,890 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:35:50,791 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:35:53,141 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:35:53,535 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:35:53,538 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:35:56,028 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:35:58,401 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:36:01,263 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:36:04,125 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@459d249a // Another save pending = false
+2023-05-03 01:36:13,543 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:36:13,545 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:36:27,621 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:36:27,624 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 455 GB, bytes free = 10.63 GB, capacity = 465.63 GB
+2023-05-03 01:36:33,550 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:36:33,553 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:36:53,555 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:36:53,558 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:37:13,560 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:37:13,563 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:37:23,869 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@4199b27 checkpointed with 53 Records and 0 Swap Files in 425 milliseconds (Stop-the-world time = 170 milliseconds, Clear Edit Logs time = 219 millis), max Transaction ID 334
+2023-05-03 01:37:27,804 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-03 01:37:27,807 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 455 GB, bytes free = 10.62 GB, capacity = 465.63 GB
+2023-05-03 01:37:33,564 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:37:33,566 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:37:53,571 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:37:53,573 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:38:13,578 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-03 01:38:13,585 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 1 records in 0 milliseconds
+2023-05-03 01:38:23,974 INFO [pool-2-thread-2] org.apache.nifi.BootstrapListener Received SHUTDOWN request from Bootstrap
+2023-05-03 01:38:23,977 INFO [pool-2-thread-2] org.apache.nifi.NiFi Application Server shutdown started
+2023-05-03 01:38:24,067 INFO [pool-2-thread-2] o.eclipse.jetty.server.AbstractConnector Stopped ServerConnector@6a97517{SSL, (ssl, http/1.1)}{63d38b398ac2:8443}
+2023-05-03 01:38:24,100 INFO [pool-2-thread-2] org.eclipse.jetty.server.session node0 Stopped scavenging

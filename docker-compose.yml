@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+   nifi:
+      image: nifi
+      build: ./nifi
+      ports:
+         - '8443:8443'
+      environment:
+         - SINGLE_USER_CREDENTIALS_USERNAME=scc413
+         - SINGLE_USER_CREDENTIALS_PASSWORD=abcdefghijklm
+      volumes:
+         - ./nifi/scripts:/home/nifi
+         - ./nifi/datasets:/opt/nifi/nifi-current/datasets
+         - ./nifi/database_repository:/opt/nifi/nifi-current/database_repository
+         - ./nifi/flowfile_repository:/opt/nifi/nifi-current/flowfile_repository
+         - ./nifi/content_repository:/opt/nifi/nifi-current/content_repository
+         - ./nifi/provenance_repository:/opt/nifi/nifi-current/provenance_repository
+         - ./nifi/state:/opt/nifi/nifi-current/state
+         - ./nifi/logs:/opt/nifi/nifi-current/logs
+         - ./nifi/conf:/opt/nifi/nifi-current/conf
+         - ./nifi/jdbc_drivers:/opt/nifi/nifi-current/jdbc_drivers
+   grafana: 
+      image: grafana/grafana:latest
+      container_name: grafana
+      user: '0'
+      ports:
+         - '3000:3000'
+      volumes:
+         - ./grafana/var/lib:/var/lib/grafana
+   mysql:
+      image: mysql
+      command: --default-authentication-plugin=mysql_native_password
+      environment:
+        MYSQL_ROOT_PASSWORD: example
+      volumes:
+         - ./mysql:/var/lib/mysql     
+         - ./mysql-init:/docker-entrypoint-initdb.d
+   adminer:
+      image: adminer
+      ports:
+         - 8080:8080
